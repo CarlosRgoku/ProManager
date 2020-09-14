@@ -24,7 +24,7 @@ Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [𝙃𝙀𝙇𝙇𝘽𝙊𝙄_𝘼𝙏𝙐𝙇](t.me/HELLOBOI_ATUL31)
+My owner is [𝙃𝙀𝙇𝙇𝘽𝙊𝙄_𝘼𝙏𝙐𝙇](t.me/HELLBOI_ATUL31)
 
 Special Thanks to [SIPAK](t.me/sipak_op) & [PROGRAMMER](t.me/programmer_op)
 
